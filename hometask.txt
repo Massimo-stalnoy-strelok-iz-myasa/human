@@ -1,0 +1,20 @@
+Эта вся фигня различается РИд МЕ Файлами
+1. Мастер токо пра хэт
+2. а в Демо пра хэт энд бут баттонс
+
+$ git diff origin/demo
+diff --git a/README b/README
+index 975e13a..6988c8d 100644
+--- a/README
++++ b/README
+@@ -1,3 +1,3 @@
+-Create release branch with human (master) in boots (boots branch) and hat (hat branch).
++Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+6 старых коммитов 
+1.
+2.
+3.
+4.
+5.
+6.
