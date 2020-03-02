@@ -12,9 +12,9 @@ index 975e13a..6988c8d 100644
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
 
 6 старых коммитов 
-1.
-2.
-3.
-4.
-5.
-6.
+1. init
+2. heat added 
+3. boots 
+4. init 
+5. dots 
+6. init 
